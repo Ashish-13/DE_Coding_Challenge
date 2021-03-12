@@ -1,7 +1,8 @@
 # DE_Coding_Challenge
-For the Data engineering coding challenge all the tasks are done using Python 3.7
 
-Modules Configuration:
+Python 3.7 has been used to complete all the tasks for the data engineering coding challenge.
+
+## Modules Configuration:
 
 Pyspark 2.4.4
 
